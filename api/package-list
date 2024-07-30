@@ -123,6 +123,7 @@ org.apache.hadoop.io.erasurecode.grouper
 org.apache.hadoop.io.file.tfile
 org.apache.hadoop.io.serializer
 org.apache.hadoop.io.serializer.avro
+org.apache.hadoop.io.wrappedio
 org.apache.hadoop.ipc.proto
 org.apache.hadoop.ipc.protobuf
 org.apache.hadoop.ipc.protocolPB
